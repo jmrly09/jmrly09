@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on my future projects 
 - 📫 How to reach me conatct me through my email or social meadia acoounts
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm not a fast learner but I am trying.
+- ⚡ Fun fact: idk
+- Experience: Novice
 
 <!---
 jmrly09/jmrly09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
